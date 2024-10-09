@@ -1,0 +1,15 @@
+D:\Estudos\design-patterns-behavioral\Command\bin\Debug\net8.0\Command.exe
+D:\Estudos\design-patterns-behavioral\Command\bin\Debug\net8.0\Command.deps.json
+D:\Estudos\design-patterns-behavioral\Command\bin\Debug\net8.0\Command.runtimeconfig.json
+D:\Estudos\design-patterns-behavioral\Command\bin\Debug\net8.0\Command.dll
+D:\Estudos\design-patterns-behavioral\Command\bin\Debug\net8.0\Command.pdb
+D:\Estudos\design-patterns-behavioral\Command\obj\Debug\net8.0\Command.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\design-patterns-behavioral\Command\obj\Debug\net8.0\Command.AssemblyInfoInputs.cache
+D:\Estudos\design-patterns-behavioral\Command\obj\Debug\net8.0\Command.AssemblyInfo.cs
+D:\Estudos\design-patterns-behavioral\Command\obj\Debug\net8.0\Command.csproj.CoreCompileInputs.cache
+D:\Estudos\design-patterns-behavioral\Command\obj\Debug\net8.0\Command.sourcelink.json
+D:\Estudos\design-patterns-behavioral\Command\obj\Debug\net8.0\Command.dll
+D:\Estudos\design-patterns-behavioral\Command\obj\Debug\net8.0\refint\Command.dll
+D:\Estudos\design-patterns-behavioral\Command\obj\Debug\net8.0\Command.pdb
+D:\Estudos\design-patterns-behavioral\Command\obj\Debug\net8.0\Command.genruntimeconfig.cache
+D:\Estudos\design-patterns-behavioral\Command\obj\Debug\net8.0\ref\Command.dll
