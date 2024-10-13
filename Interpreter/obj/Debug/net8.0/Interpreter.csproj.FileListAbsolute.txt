@@ -1,0 +1,15 @@
+D:\Estudos\design-patterns-behavioral\Interpreter\obj\Debug\net8.0\Interpreter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\design-patterns-behavioral\Interpreter\obj\Debug\net8.0\Interpreter.AssemblyInfoInputs.cache
+D:\Estudos\design-patterns-behavioral\Interpreter\obj\Debug\net8.0\Interpreter.AssemblyInfo.cs
+D:\Estudos\design-patterns-behavioral\Interpreter\obj\Debug\net8.0\Interpreter.csproj.CoreCompileInputs.cache
+D:\Estudos\design-patterns-behavioral\Interpreter\obj\Debug\net8.0\Interpreter.sourcelink.json
+D:\Estudos\design-patterns-behavioral\Interpreter\bin\Debug\net8.0\Interpreter.exe
+D:\Estudos\design-patterns-behavioral\Interpreter\bin\Debug\net8.0\Interpreter.deps.json
+D:\Estudos\design-patterns-behavioral\Interpreter\bin\Debug\net8.0\Interpreter.runtimeconfig.json
+D:\Estudos\design-patterns-behavioral\Interpreter\bin\Debug\net8.0\Interpreter.dll
+D:\Estudos\design-patterns-behavioral\Interpreter\bin\Debug\net8.0\Interpreter.pdb
+D:\Estudos\design-patterns-behavioral\Interpreter\obj\Debug\net8.0\Interpreter.dll
+D:\Estudos\design-patterns-behavioral\Interpreter\obj\Debug\net8.0\refint\Interpreter.dll
+D:\Estudos\design-patterns-behavioral\Interpreter\obj\Debug\net8.0\Interpreter.pdb
+D:\Estudos\design-patterns-behavioral\Interpreter\obj\Debug\net8.0\Interpreter.genruntimeconfig.cache
+D:\Estudos\design-patterns-behavioral\Interpreter\obj\Debug\net8.0\ref\Interpreter.dll
