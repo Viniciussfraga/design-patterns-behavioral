@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Estudos\\design-patterns-behavioral\\Iterator\\Iterator.csproj": {}
+    "D:\\Estudos\\design-patterns-behavioral\\Memento\\Memento.csproj": {}
   },
   "projects": {
-    "D:\\Estudos\\design-patterns-behavioral\\Iterator\\Iterator.csproj": {
+    "D:\\Estudos\\design-patterns-behavioral\\Memento\\Memento.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Estudos\\design-patterns-behavioral\\Iterator\\Iterator.csproj",
-        "projectName": "Iterator",
-        "projectPath": "D:\\Estudos\\design-patterns-behavioral\\Iterator\\Iterator.csproj",
+        "projectUniqueName": "D:\\Estudos\\design-patterns-behavioral\\Memento\\Memento.csproj",
+        "projectName": "Memento",
+        "projectPath": "D:\\Estudos\\design-patterns-behavioral\\Memento\\Memento.csproj",
         "packagesPath": "C:\\Users\\Unknown\\.nuget\\packages\\",
-        "outputPath": "D:\\Estudos\\design-patterns-behavioral\\Iterator\\obj\\",
+        "outputPath": "D:\\Estudos\\design-patterns-behavioral\\Memento\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Unknown\\AppData\\Roaming\\NuGet\\NuGet.Config"
