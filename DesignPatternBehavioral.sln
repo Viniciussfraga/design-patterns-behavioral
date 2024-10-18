@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Memento", "Memento\Memento.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer", "Observer\Observer.csproj", "{5192ED15-FCAA-48F4-940F-E5C24FC83333}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "State", "State\State.csproj", "{F5285B7F-D79B-459B-A289-DB5B5D057CB8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -54,5 +56,9 @@ Global
 		{5192ED15-FCAA-48F4-940F-E5C24FC83333}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5192ED15-FCAA-48F4-940F-E5C24FC83333}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5192ED15-FCAA-48F4-940F-E5C24FC83333}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5285B7F-D79B-459B-A289-DB5B5D057CB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5285B7F-D79B-459B-A289-DB5B5D057CB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5285B7F-D79B-459B-A289-DB5B5D057CB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5285B7F-D79B-459B-A289-DB5B5D057CB8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

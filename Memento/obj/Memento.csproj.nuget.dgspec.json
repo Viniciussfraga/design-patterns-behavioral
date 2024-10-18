@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Estudos\\design-patterns-behavioral\\Memento\\Memento.csproj": {}
+    "D:\\Estudos\\design-patterns-behavioral\\Memento\\Memento.csproj": {}
   },
   "projects": {
-    "d:\\Estudos\\design-patterns-behavioral\\Memento\\Memento.csproj": {
+    "D:\\Estudos\\design-patterns-behavioral\\Memento\\Memento.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Estudos\\design-patterns-behavioral\\Memento\\Memento.csproj",
+        "projectUniqueName": "D:\\Estudos\\design-patterns-behavioral\\Memento\\Memento.csproj",
         "projectName": "Memento",
-        "projectPath": "d:\\Estudos\\design-patterns-behavioral\\Memento\\Memento.csproj",
+        "projectPath": "D:\\Estudos\\design-patterns-behavioral\\Memento\\Memento.csproj",
         "packagesPath": "C:\\Users\\Unknown\\.nuget\\packages\\",
-        "outputPath": "d:\\Estudos\\design-patterns-behavioral\\Memento\\obj\\",
+        "outputPath": "D:\\Estudos\\design-patterns-behavioral\\Memento\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Unknown\\AppData\\Roaming\\NuGet\\NuGet.Config"
