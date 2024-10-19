@@ -1,0 +1,15 @@
+d:\Estudos\design-patterns-behavioral\Strategy\bin\Debug\net8.0\Strategy.exe
+d:\Estudos\design-patterns-behavioral\Strategy\bin\Debug\net8.0\Strategy.deps.json
+d:\Estudos\design-patterns-behavioral\Strategy\bin\Debug\net8.0\Strategy.runtimeconfig.json
+d:\Estudos\design-patterns-behavioral\Strategy\bin\Debug\net8.0\Strategy.dll
+d:\Estudos\design-patterns-behavioral\Strategy\bin\Debug\net8.0\Strategy.pdb
+d:\Estudos\design-patterns-behavioral\Strategy\obj\Debug\net8.0\Strategy.GeneratedMSBuildEditorConfig.editorconfig
+d:\Estudos\design-patterns-behavioral\Strategy\obj\Debug\net8.0\Strategy.AssemblyInfoInputs.cache
+d:\Estudos\design-patterns-behavioral\Strategy\obj\Debug\net8.0\Strategy.AssemblyInfo.cs
+d:\Estudos\design-patterns-behavioral\Strategy\obj\Debug\net8.0\Strategy.csproj.CoreCompileInputs.cache
+d:\Estudos\design-patterns-behavioral\Strategy\obj\Debug\net8.0\Strategy.sourcelink.json
+d:\Estudos\design-patterns-behavioral\Strategy\obj\Debug\net8.0\Strategy.dll
+d:\Estudos\design-patterns-behavioral\Strategy\obj\Debug\net8.0\refint\Strategy.dll
+d:\Estudos\design-patterns-behavioral\Strategy\obj\Debug\net8.0\Strategy.pdb
+d:\Estudos\design-patterns-behavioral\Strategy\obj\Debug\net8.0\Strategy.genruntimeconfig.cache
+d:\Estudos\design-patterns-behavioral\Strategy\obj\Debug\net8.0\ref\Strategy.dll
