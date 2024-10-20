@@ -1,0 +1,15 @@
+d:\Estudos\design-patterns-behavioral\Visitor\bin\Debug\net8.0\Visitor.exe
+d:\Estudos\design-patterns-behavioral\Visitor\bin\Debug\net8.0\Visitor.deps.json
+d:\Estudos\design-patterns-behavioral\Visitor\bin\Debug\net8.0\Visitor.runtimeconfig.json
+d:\Estudos\design-patterns-behavioral\Visitor\bin\Debug\net8.0\Visitor.dll
+d:\Estudos\design-patterns-behavioral\Visitor\bin\Debug\net8.0\Visitor.pdb
+d:\Estudos\design-patterns-behavioral\Visitor\obj\Debug\net8.0\Visitor.GeneratedMSBuildEditorConfig.editorconfig
+d:\Estudos\design-patterns-behavioral\Visitor\obj\Debug\net8.0\Visitor.AssemblyInfoInputs.cache
+d:\Estudos\design-patterns-behavioral\Visitor\obj\Debug\net8.0\Visitor.AssemblyInfo.cs
+d:\Estudos\design-patterns-behavioral\Visitor\obj\Debug\net8.0\Visitor.csproj.CoreCompileInputs.cache
+d:\Estudos\design-patterns-behavioral\Visitor\obj\Debug\net8.0\Visitor.sourcelink.json
+d:\Estudos\design-patterns-behavioral\Visitor\obj\Debug\net8.0\Visitor.dll
+d:\Estudos\design-patterns-behavioral\Visitor\obj\Debug\net8.0\refint\Visitor.dll
+d:\Estudos\design-patterns-behavioral\Visitor\obj\Debug\net8.0\Visitor.pdb
+d:\Estudos\design-patterns-behavioral\Visitor\obj\Debug\net8.0\Visitor.genruntimeconfig.cache
+d:\Estudos\design-patterns-behavioral\Visitor\obj\Debug\net8.0\ref\Visitor.dll

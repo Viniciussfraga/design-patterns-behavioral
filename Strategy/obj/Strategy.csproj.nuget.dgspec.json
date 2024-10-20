@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Estudos\\design-patterns-behavioral\\Strategy\\Strategy.csproj": {}
+    "D:\\Estudos\\design-patterns-behavioral\\Strategy\\Strategy.csproj": {}
   },
   "projects": {
-    "d:\\Estudos\\design-patterns-behavioral\\Strategy\\Strategy.csproj": {
+    "D:\\Estudos\\design-patterns-behavioral\\Strategy\\Strategy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Estudos\\design-patterns-behavioral\\Strategy\\Strategy.csproj",
+        "projectUniqueName": "D:\\Estudos\\design-patterns-behavioral\\Strategy\\Strategy.csproj",
         "projectName": "Strategy",
-        "projectPath": "d:\\Estudos\\design-patterns-behavioral\\Strategy\\Strategy.csproj",
+        "projectPath": "D:\\Estudos\\design-patterns-behavioral\\Strategy\\Strategy.csproj",
         "packagesPath": "C:\\Users\\Unknown\\.nuget\\packages\\",
-        "outputPath": "d:\\Estudos\\design-patterns-behavioral\\Strategy\\obj\\",
+        "outputPath": "D:\\Estudos\\design-patterns-behavioral\\Strategy\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Unknown\\AppData\\Roaming\\NuGet\\NuGet.Config"
