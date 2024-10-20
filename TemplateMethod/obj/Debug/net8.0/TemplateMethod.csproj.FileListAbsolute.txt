@@ -1,0 +1,15 @@
+d:\Estudos\design-patterns-behavioral\TemplateMethod\bin\Debug\net8.0\TemplateMethod.exe
+d:\Estudos\design-patterns-behavioral\TemplateMethod\bin\Debug\net8.0\TemplateMethod.deps.json
+d:\Estudos\design-patterns-behavioral\TemplateMethod\bin\Debug\net8.0\TemplateMethod.runtimeconfig.json
+d:\Estudos\design-patterns-behavioral\TemplateMethod\bin\Debug\net8.0\TemplateMethod.dll
+d:\Estudos\design-patterns-behavioral\TemplateMethod\bin\Debug\net8.0\TemplateMethod.pdb
+d:\Estudos\design-patterns-behavioral\TemplateMethod\obj\Debug\net8.0\TemplateMethod.GeneratedMSBuildEditorConfig.editorconfig
+d:\Estudos\design-patterns-behavioral\TemplateMethod\obj\Debug\net8.0\TemplateMethod.AssemblyInfoInputs.cache
+d:\Estudos\design-patterns-behavioral\TemplateMethod\obj\Debug\net8.0\TemplateMethod.AssemblyInfo.cs
+d:\Estudos\design-patterns-behavioral\TemplateMethod\obj\Debug\net8.0\TemplateMethod.csproj.CoreCompileInputs.cache
+d:\Estudos\design-patterns-behavioral\TemplateMethod\obj\Debug\net8.0\TemplateMethod.sourcelink.json
+d:\Estudos\design-patterns-behavioral\TemplateMethod\obj\Debug\net8.0\TemplateMethod.dll
+d:\Estudos\design-patterns-behavioral\TemplateMethod\obj\Debug\net8.0\refint\TemplateMethod.dll
+d:\Estudos\design-patterns-behavioral\TemplateMethod\obj\Debug\net8.0\TemplateMethod.pdb
+d:\Estudos\design-patterns-behavioral\TemplateMethod\obj\Debug\net8.0\TemplateMethod.genruntimeconfig.cache
+d:\Estudos\design-patterns-behavioral\TemplateMethod\obj\Debug\net8.0\ref\TemplateMethod.dll

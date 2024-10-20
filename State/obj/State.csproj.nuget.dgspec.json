@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Estudos\\design-patterns-behavioral\\State\\State.csproj": {}
+    "D:\\Estudos\\design-patterns-behavioral\\State\\State.csproj": {}
   },
   "projects": {
-    "d:\\Estudos\\design-patterns-behavioral\\State\\State.csproj": {
+    "D:\\Estudos\\design-patterns-behavioral\\State\\State.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Estudos\\design-patterns-behavioral\\State\\State.csproj",
+        "projectUniqueName": "D:\\Estudos\\design-patterns-behavioral\\State\\State.csproj",
         "projectName": "State",
-        "projectPath": "d:\\Estudos\\design-patterns-behavioral\\State\\State.csproj",
+        "projectPath": "D:\\Estudos\\design-patterns-behavioral\\State\\State.csproj",
         "packagesPath": "C:\\Users\\Unknown\\.nuget\\packages\\",
-        "outputPath": "d:\\Estudos\\design-patterns-behavioral\\State\\obj\\",
+        "outputPath": "D:\\Estudos\\design-patterns-behavioral\\State\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Unknown\\AppData\\Roaming\\NuGet\\NuGet.Config"
